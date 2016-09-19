@@ -23,18 +23,24 @@ option {
   font-size: 1em;
 }
 
+footer {
+  background: darkslategray;
+  color: white;
+  padding: 10px 0;
+}
+
 .cars {
   border: .5px solid darkslategray;
   margin: 1em;
   padding: 4px;
   display: inline-block;
-  width: 400px;
+  width: 350px;
 }
 
-.storefront {
+/*.storefront {
   display: flex;
   width: 90%;
-}
+}*/
 
 .info {
   font-size: .75em;
@@ -47,4 +53,13 @@ option {
 
 .smaller {
   width: 300px;
+}
+
+.brand {
+  margin-top: -12px;
+}
+
+.selected {
+  border: 1.5px solid darkslategray;
+  background: aliceblue;
 }

@@ -31,6 +31,70 @@
       "png": "images/cx-5.png",
       "price": "12599",
       "description": "This family care is ready for your busy schedule, cargo demands and the leather makes it kid/pet friendsly."
+    },
+{
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "png": "images/rogue.png",
+      "price": "8999",
+      "description": "This is an immaculate vehicle with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": "2012",
+      "png": "images/santa-fe.png",
+      "price": "14499",
+      "description": "Don't miss this gem.  Under 5,000 miles, this SUV is fully stacked with everything the modern family needs."
+    },
+    {
+      "make": "Honda",
+      "model": "Fit",
+      "year": "2016",
+      "png": "images/fit.png",
+      "price": "18999",
+      "description": "Ready to save on fuel? Get this eco-friendly deal that is easy on the eye AND the wallet."
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": "2015",
+      "png": "images/cx-5.png",
+      "price": "12599",
+      "description": "This family care is ready for your busy schedule, cargo demands and the leather makes it kid/pet friendsly."
+    },
+{
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "png": "images/rogue.png",
+      "price": "8999",
+      "description": "This is an immaculate vehicle with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": "2012",
+      "png": "images/santa-fe.png",
+      "price": "14499",
+      "description": "Don't miss this gem.  Under 5,000 miles, this SUV is fully stacked with everything the modern family needs."
+    },
+    {
+      "make": "Honda",
+      "model": "Fit",
+      "year": "2016",
+      "png": "images/fit.png",
+      "price": "18999",
+      "description": "Ready to save on fuel? Get this eco-friendly deal that is easy on the eye AND the wallet."
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": "2015",
+      "png": "images/cx-5.png",
+      "price": "12599",
+      "description": "This family care is ready for your busy schedule, cargo demands and the leather makes it kid/pet friendsly."
     }
   ]
 }
