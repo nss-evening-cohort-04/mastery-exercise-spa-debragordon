@@ -1,6 +1,50 @@
 * {
-  background: teal;
-  color: white;
   margin: 0px;
   padding: 0px;
+}
+
+body {
+  font-family: Helvetica;
+  text-align: center;
+  color: darkslategray;
+}
+
+header {
+  background: lightgray;
+  height: 70px;
+}
+
+.top {
+  padding: 10px 0 0 0;
+}
+
+option {
+  color: darkslategray;
+  font-size: 1em;
+}
+
+.cars {
+  border: .5px solid darkslategray;
+  margin: 1em;
+  padding: 4px;
+  display: inline-block;
+  width: 400px;
+}
+
+.storefront {
+  display: flex;
+  width: 90%;
+}
+
+.info {
+  font-size: .75em;
+}
+
+.ticketPrice {
+  font-size: 1.25em;
+  font-weight: bolder;
+}
+
+.smaller {
+  width: 300px;
 }
