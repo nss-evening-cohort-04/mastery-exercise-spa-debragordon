@@ -7,6 +7,7 @@ body {
   font-family: Helvetica;
   text-align: center;
   color: darkslategray;
+  box-sizing: border-box;
 }
 
 header {
@@ -37,11 +38,6 @@ footer {
   width: 350px;
 }
 
-/*.storefront {
-  display: flex;
-  width: 90%;
-}*/
-
 .info {
   font-size: .75em;
 }
@@ -60,6 +56,6 @@ footer {
 }
 
 .selected {
-  border: 1.5px solid darkslategray;
+  border: 2px solid darkslategray;
   background: aliceblue;
 }
