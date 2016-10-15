@@ -1,4 +1,4 @@
-var carInQueation = (function () {
+var carInQuestion = (function () {
   var userInput = document.getElementById("car-update");
   var carToDom = document.getElementsByClassName("cars");
 
