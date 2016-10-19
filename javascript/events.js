@@ -1,10 +1,12 @@
-var CarLot = (function () {
+var CarLot = (function (newCarLot) {
   var userInput = document.getElementById("car-update");
-  function editCarDescription (userInput) {
+  newCarLot.editCarDescription = function (userInput) {
     document.getElementById(carDescription).innerHTML = userInput;
   }
 
   userInput.addEventListener("keyup", function() {
-    editCarDescription(userInput.value);
+    CarLot.editCarDescription(userInput.value);
   });
+  return newCarLot;
+
 })(CarLot || {});
